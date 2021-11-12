@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Rhymen/go-whatsapp/binary"
-	"github.com/Rhymen/go-whatsapp/binary/proto"
+	"github.com/adeherysh/go-whatsapp/binary"
+	"github.com/adeherysh/go-whatsapp/binary/proto"
 )
 
 type MediaType string

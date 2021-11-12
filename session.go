@@ -12,9 +12,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Rhymen/go-whatsapp/crypto/cbc"
-	"github.com/Rhymen/go-whatsapp/crypto/curve25519"
-	"github.com/Rhymen/go-whatsapp/crypto/hkdf"
+	"github.com/adeherysh/go-whatsapp/crypto/cbc"
+	"github.com/adeherysh/go-whatsapp/crypto/curve25519"
+	"github.com/adeherysh/go-whatsapp/crypto/hkdf"
 )
 
 //represents the WhatsAppWeb client version
